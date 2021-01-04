@@ -20,5 +20,3 @@ Built with Vanilla JavaScript. Below is a list of the methods and properties use
 * toLowerCase
 * target
 
-
-### Video coming soon!!!
